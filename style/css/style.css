@@ -63,15 +63,13 @@ code {
 
 /* Two-column layout */
 .left-column {
-  width: 20%;
-  height: 92%;
+  width: 49%;
   float: left;
 }
 
 .right-column {
-  width: 75%;
+  width: 49%;
   float: right;
-  padding-top: 1em;
 }
 
 .image-scaled img {
